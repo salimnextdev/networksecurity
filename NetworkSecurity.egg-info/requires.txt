@@ -1,5 +1,0 @@
-python-dotenv
-pandas==2.2.3
-numpy
-pymongo
-certifi
